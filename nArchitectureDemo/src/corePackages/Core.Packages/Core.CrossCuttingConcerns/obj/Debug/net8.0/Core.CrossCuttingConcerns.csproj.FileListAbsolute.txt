@@ -1,0 +1,11 @@
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.deps.json
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.dll
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\bin\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.AssemblyInfoInputs.cache
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.AssemblyInfo.cs
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.csproj.CoreCompileInputs.cache
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.dll
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\refint\Core.CrossCuttingConcerns.dll
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\Core.CrossCuttingConcerns.pdb
+D:\Engin Demiroğ\nArchitectureDemo\src\corePackages\Core.Packages\Core.CrossCuttingConcerns\obj\Debug\net8.0\ref\Core.CrossCuttingConcerns.dll

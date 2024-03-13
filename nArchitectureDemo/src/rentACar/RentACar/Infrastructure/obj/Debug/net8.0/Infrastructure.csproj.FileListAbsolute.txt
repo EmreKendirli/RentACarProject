@@ -1,0 +1,11 @@
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+D:\Engin Demiroğ\nArchitectureDemo\src\rentACar\RentACar\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
