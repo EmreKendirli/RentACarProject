@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Nlg/VIRmQA8U5GmO3MUdIWA46fguV6N65XLNvxBxydarSjjjvhxo98RQ7jbqs/mFxlDwtsWlQTUoFqpHXPL3+A==",
+  "dgSpecHash": "qe4sT0XNVBdJuQq+4uWFvg0qA3pVVSkmAh/7Qx5ZUiF37Ap+W6OILOoAphJVxQrwn6Koy5AoQjgWOcXM1oRryw==",
   "success": true,
-  "projectFilePath": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
+  "projectFilePath": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Application\\Core.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\emrek\\.nuget\\packages\\entityframeworkcore.query\\1.3.1.2\\entityframeworkcore.query.1.3.1.2.nupkg.sha512",
     "C:\\Users\\emrek\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

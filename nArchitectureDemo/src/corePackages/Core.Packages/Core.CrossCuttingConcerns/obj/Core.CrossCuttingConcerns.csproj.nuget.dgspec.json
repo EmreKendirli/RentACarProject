@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {}
+    "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {}
   },
   "projects": {
-    "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
+    "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectUniqueName": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "projectName": "Core.CrossCuttingConcerns",
-        "projectPath": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
+        "projectPath": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\Core.CrossCuttingConcerns.csproj",
         "packagesPath": "C:\\Users\\emrek\\.nuget\\packages\\",
-        "outputPath": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\obj\\",
+        "outputPath": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.CrossCuttingConcerns\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

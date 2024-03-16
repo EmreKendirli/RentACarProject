@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\emrek\\.nuget\\packages\\",
-      "outputPath": "D:\\Engin Demiroğ\\nArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\obj\\",
+      "outputPath": "D:\\Engin Demiroğ\\RentACarProject\\nArchitectureDemo\\src\\rentACar\\RentACar\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
