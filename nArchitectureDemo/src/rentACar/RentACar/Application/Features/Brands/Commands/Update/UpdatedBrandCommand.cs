@@ -7,14 +7,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using MediatR;
+using Core.Application.Pipelines.Caching;
 namespace Application.Features.Brands.Commands.Update;
 
-public class UpdatedBrandCommand:IRequest<UpdatedBrandResponse>
+public class UpdatedBrandCommand:IRequest<UpdatedBrandResponse>, ICacheRemoverRequest
 {
     public Guid Id { get; set; }
     public string Name { get; set; }
 
-    public class UpdatedBrandCommandHandler:IRequestHandler<UpdatedBrandCommand, UpdatedBrandResponse>
+	public string? CacheKey => "";
+	public bool BypassCache => false;
+	public string? CacheGroupKey => "GetBrands";
+	public class UpdatedBrandCommandHandler:IRequestHandler<UpdatedBrandCommand, UpdatedBrandResponse>
     {
         private readonly IBrandRepository _brandRepository;
         private readonly IMapper _mapper;

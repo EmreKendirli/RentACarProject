@@ -307,3 +307,15 @@ D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi
 D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.pdb
 D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\StackExchange.Redis.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Serilog.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Serilog.Sinks.MSSqlServer.dll
+D:\Engin Demiroğ\RentACarProject\nArchitectureDemo\src\rentACar\RentACar\WebApi\bin\Debug\net8.0\Serilog.Sinks.PeriodicBatching.dll

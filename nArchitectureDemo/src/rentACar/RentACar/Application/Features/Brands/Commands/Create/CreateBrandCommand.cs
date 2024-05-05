@@ -1,6 +1,9 @@
 ﻿using Application.Features.Brands.Rules;
 using Application.Services.Respositories;
 using AutoMapper;
+using Core.Application.Pipelines.Caching;
+using Core.Application.Pipelines.Logging;
+using Core.Application.Pipelines.Transaction;
 using Domain.Entities;
 using MediatR;
 using System;
@@ -11,11 +14,17 @@ using System.Threading.Tasks;
 
 namespace Application.Features.Brands.Commands.Create;
 
-public class CreateBrandCommand:IRequest<CreatedBrandResponse>
+public class CreateBrandCommand:IRequest<CreatedBrandResponse>,ITransactionalRequest,ICacheRemoverRequest,ILoggableRequest
 {
     public string Name { get; set; }
 
-    public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
+	public string? CacheKey => "";
+
+	public bool BypassCache => false;
+
+    public string? CacheGroupKey => "GetBrands";
+
+	public class CreateBrandCommandHandler : IRequestHandler<CreateBrandCommand, CreatedBrandResponse>
     {
         private readonly IBrandRepository _brandRepository;
         private readonly IMapper _mapper;
@@ -36,9 +45,13 @@ public class CreateBrandCommand:IRequest<CreatedBrandResponse>
             Brand brand = _mapper.Map<Brand>(request);
             brand.Id = Guid.NewGuid();
 
-             await _brandRepository.AddAsync(brand);
+			//Brand brand2 = _mapper.Map<Brand>(request);
+			//brand2.Id = Guid.NewGuid();
 
-            CreatedBrandResponse createdBrandResponse = _mapper.Map<CreatedBrandResponse>(brand);
+			await _brandRepository.AddAsync(brand);
+			//await _brandRepository.AddAsync(brand2);
+
+			CreatedBrandResponse createdBrandResponse = _mapper.Map<CreatedBrandResponse>(brand);
 
             return createdBrandResponse;
         }
